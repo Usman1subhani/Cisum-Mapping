@@ -10,6 +10,11 @@ This project is a Cesium-based web application that displays a map and places 3D
 - Real-world geospatial positioning
 - Lightweight front-end setup for quick map rendering
 
+## Screenshot
+<img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/c99b75a6-de5d-4b46-8585-c40fbaea31ae" />
+
+
+
 ## Project Purpose
 
 The goal of this project is to showcase how 3D items such as trees can be placed and displayed on a map at real-world locations. This is useful for urban planning, landscaping, simulation, and map-based visualization prototypes.
